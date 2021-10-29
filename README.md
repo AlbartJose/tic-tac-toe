@@ -14,12 +14,10 @@ I have used React to build this game.
 
 ## Sneak Peak
 #### Game Start:
-<img width="600px" src="https://imgur.com/ToZmxrl"/>
+<img width="600px" src="https://user-images.githubusercontent.com/86405837/139427830-11041eee-b03a-4608-9e97-3ac6fcb17d2a.png"/>
 
 #### Game End:
-<img width="600px" src="https://imgur.com/I1iarhK"/>
-
-<hr/>
+<img width="600px" src="https://user-images.githubusercontent.com/86405837/139427837-0632c584-e3b4-4bf9-9615-2a96495fd493.png"/>
 
 ### Installation and Setup Instructions
 Clone down this repository
