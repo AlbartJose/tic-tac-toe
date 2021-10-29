@@ -1,5 +1,7 @@
 # Tic Tac Toe game
 **Demo** : https://tictactoe-beta.vercel.app/
+
+</br>
 I have used React to build this game.
 ---
 ### Tech stacks used :
